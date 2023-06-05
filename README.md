@@ -1,1 +1,2 @@
-# Teleco-Churn-Management-Dashboard
+# Telecom Churn Management Dashboard
+## About
